@@ -177,14 +177,14 @@
             "background": "#232324",
             "black": "#002831",
             "blue": "#268BD2",
-            "brightBlack": "#B3A250",
+            "brightBlack": "#b39c50",
             "brightBlue": "#839496",
             "brightCyan": "#93A1A1",
             "brightGreen": "#586E75",
             "brightPurple": "#6C71C4",
             "brightRed": "#CB4B16",
             "brightWhite": "#2AA198",
-            "brightYellow": "#B3A250",
+            "brightYellow": "#e0ce63",
             "cursorColor": "#FFFFFF",
             "cyan": "#2AA198",
             "foreground": "#B1B5B6",
@@ -289,5 +289,6 @@
             "yellow": "#808000"
         }
     ],
-    "theme": "dark"
+    "theme": "dark",
+    "trimBlockSelection": true
 }
