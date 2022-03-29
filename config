@@ -1,0 +1,5 @@
+Host          aliyun
+HostName      106.15.42.148
+Port          22
+User          root
+IdentityFile  C:/Users/zhangjunfeng/.ssh/Aliyun.pem
